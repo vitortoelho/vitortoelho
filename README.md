@@ -1,0 +1,3 @@
+-  hi, my name is vitor,
+-  I’m currently learning python, java, c & c++, html and css.
+-  my personal hobbies are mostly gaming, movies and music.
