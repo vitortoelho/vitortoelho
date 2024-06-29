@@ -19,7 +19,7 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 <img align="left" alt="GitHub" width="90px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <br />
 
--
+---
 
 ### 📊 GitHub Stats
 
