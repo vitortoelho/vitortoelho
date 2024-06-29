@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 # 🖥️ Vitor Holanda
 
 **`Desenvolvedor Aprendiz`**
@@ -17,7 +19,6 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 <img align="left" alt="JavaScript" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="GitHub Light" width="92px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <br><br><br>
 
 ---
