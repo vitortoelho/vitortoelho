@@ -20,9 +20,3 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 <br><br><br>
 
 ---
-
-### 📊 GitHub Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitortoelho&show_icons=true&theme=apprentice)
-
-#
