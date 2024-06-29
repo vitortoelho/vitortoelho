@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Aprendiz`**
 
-Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguagens de código e ferramentas simultaneamente. Minha jornada começou com Python, a primeira linguagem que aprendi, e desde então desenvolvi uma afinidade especial por ela. Tenho um grande interesse em desenvolvimento backend, inteligência artificial, machine learning e robótica. Meu sonho de carreira é estudar engenharia robótica e aplicar meus conhecimentos na criação de robôs, como os desenvolvidos pela Boston Dynamics.
+Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguagens de código e ferramentas simultaneamente. Minha jornada começou com Python, a primeira linguagem que aprendi, e desde então desenvolvi uma afinidade especial por ela. Tenho um grande interesse em desenvolvimento backend, inteligência artificial, machine learning e robótica. Meu sonho de carreira é estudar inteligências artificiais e engenharia robótica e aplicar meus conhecimentos na criação de robôs, como os desenvolvidos pela Boston Dynamics.
 
 ---
 
