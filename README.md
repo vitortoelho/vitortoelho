@@ -19,6 +19,7 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 <img align="left" alt="JavaScript" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="65px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<i class="devicon-github-original-wordmark" style="font-size: 92px; padding-right: 10px; color: white;"></i>
 <br><br><br>
 
 ---
