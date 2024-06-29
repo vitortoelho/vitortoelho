@@ -8,8 +8,6 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 
 ### 🧰 Linguagens e Ferramentas
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <img align="left" alt="Python" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Java" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Git" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
@@ -18,7 +16,8 @@ Sou estudante de Sistemas de Informação, atualmente aprendendo várias linguag
 <img align="left" alt="CSS" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<i class="devicon-github-original-wordmark" style="font-size: 92px; padding-right: 10px; color: white;"></i>
+<img align="left" alt="GitHub" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="GitHub Light" width="92px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br><br><br><br><br>
 
 ---
